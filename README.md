@@ -19,7 +19,7 @@ Key examples include:
 
 This project is designed as a SQL practice ground for analysts and developers preparing for real-world analytics or technical interviews.
 
-``SQL
+```SQL
 --Q1) List all products in the ‘Electronics’ category.
 SELECT * 
 FROM
