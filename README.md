@@ -11,14 +11,10 @@ I created a collection of SQL practice questions and solutions for MS SQL Server
 
 Key examples include:
 
-Top customers by spending
-
-Monthly sales trends with percentage growth
-
-Store performance classification (Above/Below Average)
-
-Top-selling product per store using window functions
-
-Customer segmentation with CASE expressions
+- Top customers by spending
+- Monthly sales trends with percentage growth
+- Store performance classification (Above/Below Average)
+- Top-selling product per store using window functions
+- Customer segmentation with CASE expressions
 
 This project is designed as a SQL practice ground for analysts and developers preparing for real-world analytics or technical interviews.
